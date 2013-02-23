@@ -1,4 +1,4 @@
-stylush
+Stylush
 =======
 
 Stylus Framework
